@@ -1,7 +1,10 @@
 # Destiknowtion
 an application that help you to plan your vacation budget
 
-\Bangkit Capstone Project CH2-PS577
+Indonesia tourism industry has a lot of potential, especially Bali. There is a lot of beautiful landscape. The government itself targets 8.5 million tourists and 1.4 billion domestic tourists in 2023. Previously, in 2022, based on data from BPS, the number of foreign tourists reached 5.47 million and domestic tourists reached 734.86 million.
+
+
+Bangkit Capstone Project CH2-PS577
 
 Our member:
 1. M200BSY1574 – Najmi Izzul Fuaidi – Universitas Diponegoro - Active
