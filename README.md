@@ -32,7 +32,7 @@ Our member:
 6. Make sure that you create and configure app.yaml file
 7. To deploy on app engine, run command 'gcloud app deploy' on the terminal
 
-#Featured Technology
+# Featured Technology
 1. Node.js
 2. Express.js
 3. Google Cloud Platform(GCP)
