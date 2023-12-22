@@ -25,7 +25,7 @@ Our member:
 
 # Cloud Computing Learning Path
 1. Make sure you have created a project in GCP
-2. Download all files from folder backend
+2. Pull all files from folder backend
 3. Upload files in the Backend to the google cloud editor
 4. Go to App Engine and create an instance
 5. Go to SQL and create mySQL and run the SQL query
@@ -36,3 +36,12 @@ Our member:
 1. Node.js
 2. Express.js
 3. Google Cloud Platform(GCP)
+
+# Android Development Learning Path
+1. Pull the project from android or download from this link
+2. Open in Android Studio
+
+# Featured Technology
+1. Kotlin
+2. Retrofit
+3. Geolocation API
